@@ -1,0 +1,3 @@
+﻿  9_Overlapped_Event_Server.cpp
+c:\users\phungvanhoang\source\repos\9_overlapped_event\9_overlapped_event\9_overlapped_event_server.cpp(52): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  9_Overlapped_Event.vcxproj -> C:\Users\PhungVanHoang\source\repos\9_Overlapped_Event\Debug\9_Overlapped_Event_Server.exe
